@@ -28,7 +28,7 @@ body{
     height: 300px;
     box-shadow: 5px 5px whitesmoke;
 }
-.main_div button{
+.button{
     background: cyan;
     width:310px ;
     font-size: 16px;
